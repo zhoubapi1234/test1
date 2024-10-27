@@ -1,2 +1,2 @@
 # test1
-This is only a test of my githb
+This is only a test of my github
